@@ -1,0 +1,87 @@
+.author {
+  font-style: italic;
+  font-weight: bold;
+  text-align: right;
+}
+
+.btn {
+  margin: 10px;
+}
+
+.card {
+  margin: 20px;
+}
+
+.card-body {
+  text-align: center;
+  color: #ffffff;
+}
+
+.action {
+  text-align: center;
+  color: #777777;
+  font-size: 20px;
+}
+
+form {
+  padding: 20px;
+  background-color: #acc6aa;
+  width: 90%;
+  border-radius: 10px;
+  position: absolute;
+  z-index: 2;
+  left: 5%;
+}
+
+label {
+  font-weight: bold;
+  color: #ffffff;
+  letter-spacing: 2px;
+}
+
+.cancel-form {
+  text-align: right;
+}
+
+.form-btn {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.card:nth-child(6n-5) {
+  background-color: green;
+}
+
+.card:nth-child(6n-4) {
+  background-color: palevioletred;
+}
+
+.card:nth-child(6n-3) {
+  background-color:palevioletred;
+}
+
+.card:nth-child(6n-2) {
+  background-color: #ff0033;
+}
+
+.card:nth-child(6n-1) {
+  background-color: #9911aa;
+}
+
+.card:nth-child(6n+0) {
+  background-color: #5ebd3e;
+}
+
+.card-footer {
+  background-color: #eeeeee;
+}
+
+.fa-quote-left {
+  float: left;
+  font-size: 30px;
+}
+
+.del {
+  color: red;
+  float: right;
+}
