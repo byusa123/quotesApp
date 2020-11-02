@@ -2,6 +2,8 @@
 
 quotesApp 
 
+byusa123.github.io/quotesapp/
+
 ## OWNER
 GISELLE BYUSA UWASE 
 
