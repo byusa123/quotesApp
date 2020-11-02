@@ -51,12 +51,15 @@
                 {{quote.upvotes}}
               </div>
               <div class="col-3 action" (click)="quote.upvotes = quote.upvotes + 1">
-                <i class="fa fa-thumbs-up"></i>
+                <button class="btn btn-success">upvotes</button>
+                
               </div>
               <div class="col-3 action" (click)="quote.downvotes = quote.downvotes + 1">
-                <i class="fa fa-thumbs-down"></i>
+                <button class="btn btn-danger">Dawnvotes</button>
               </div>
               <div class="col-3 action">
+                
+                
                 {{quote.downvotes}}
               </div>
                <button class="btn btn-danger" (click)='delete(i)'>Delete Quote </button>

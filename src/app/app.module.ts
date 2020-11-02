@@ -10,6 +10,7 @@ import { QuoteComponent } from './quote/quote.component';
 import { QuoteDetailsComponent } from './quote-details/quote-details.component';
 import { HighlightVotesDirective } from './highlight-votes.directive';
 import { TimeCountPipe } from './time-count.pipe';
+import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 
 
 
@@ -26,6 +27,7 @@ import { TimeCountPipe } from './time-count.pipe';
     BrowserModule,
     AppRoutingModule,
     FormsModule,
+    NgbModule,
 
   ],
   providers: [],
