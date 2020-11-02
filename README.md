@@ -7,7 +7,7 @@ GISELLE BYUSA UWASE
 
 ## CONTACT ME 
 
-Phone : 0784315067/0781019415
+Phone : 0784315067
 email:byusagisele@gmail.com
 
 # Goals
