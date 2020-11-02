@@ -2,7 +2,8 @@
 
 quotesApp 
 
-
+## OWNER
+GISELLE BYUSA UWASE 
 
 
 
